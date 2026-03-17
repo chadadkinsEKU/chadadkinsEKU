@@ -4,7 +4,7 @@ I'm Chad Adkins, Executive Director of Institutional Research and Data Analytics
 
 I'm currenting learning React and more about Github. 
 
-I've been working with SAS for about 25 years and using Python for 8 years. We manage out own server at EKU which currently houses our web apps.
+I've been working with SAS for about 25 years and using Python for 8 years. We manage our own server at EKU which currently houses our web apps.
 
 https://irserver2.eku.edu/Apps/DataPage/PROD/
 
