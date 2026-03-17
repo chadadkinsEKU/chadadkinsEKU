@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Chad Adkins, Executive Director of Institutional Research and Data Analytics at Eastern Kentucky University.
+
+I'm currenting learning React and more about Github. 
+
+I've been working with SAS for about 25 years and using Python for 8 years. We manage out own server at EKU which currently houses our web apps.
+
+https://irserver2.eku.edu/Apps/DataPage/PROD/
+
 <!--
 **chadadkinsEKU/chadadkinsEKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
